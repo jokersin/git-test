@@ -4,6 +4,6 @@ public class Show {
     }
 
     public void sayHi(){
-        System.out.println("Hi Good night!");
+        System.out.println("Hi Good night!!");
     }
 }
